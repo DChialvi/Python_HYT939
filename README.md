@@ -1,7 +1,7 @@
-# Adafruit_Python_HYT939
+# Python_HYT939
 Python Library for the HYT939 Humidity/Temperature sensor.
 
-Partially based on the code of the Adafruit_Python_HYT939 library written by Massimo Gaggero.
+Partially based on the code of the Python_HYT939 library written by Massimo Gaggero.
 
 **Warning**:
 
